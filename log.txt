@@ -1,0 +1,1185 @@
+Starting my mission... 
+Fetching data from http://www.nhaccuatui.com/nghe?M=J6NiVA3gbo 
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="ctl00_Head1"><title>
+	If That's Ok With You (Clip) - Shayne Ward | Nhạc Anh
+</title><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta content="index, follow" name="robots" />
+    <meta content="Bài hát If That's Ok With You (Clip) do ca sĩ Shayne Ward trình bày thuộc thể loại Nhạc Anh" name="description" />
+	<meta content="If That's Ok With You (Clip), Shayne Ward, kalen1803, Nhạc Anh" name="keywords" />
+    
+    
+    <style type="text/css">@import "http://img1.nhaccuatui.com/Css/v6/reset.css?rand=22082009";</style>
+    <style type="text/css">@import "http://img1.nhaccuatui.com/Css/v6/ie.css";</style>
+    <style type="text/css">@import "http://img1.nhaccuatui.com/Css/v6/layout.css?rand=20090911";</style>
+    <style type="text/css">@import "http://img1.nhaccuatui.com/Css/v6/mavdialog.css?rand=24062009";</style>
+    <style type="text/css">@import "http://img1.nhaccuatui.com/Css/v6/tooltip.css?rand=29062009";</style>
+	<style type="text/css">@import "http://img1.nhaccuatui.com/Css/v6/dhtmlXCombo.css?rand=18062009";</style>
+	
+    <script language="javascript" src="http://img1.nhaccuatui.com/Js/v6/lib/mootools-1.2.2-core.js?rand=29062009" type="text/javascript"></script>
+	<script language="javascript" src="http://img1.nhaccuatui.com/Js/v6/lib/class.MavDialog.js?rand=29062009" type="text/javascript"></script>
+	<script language="javascript" src="http://img1.nhaccuatui.com/Js/v6/lib/him.js?0612007" type="text/javascript"></script>
+	<script language="javascript" src="http://img1.nhaccuatui.com/Js/v6/lib/url.js" type="text/javascript"></script>
+	<script language="javascript" src="http://img1.nhaccuatui.com/Js/v6/lib/swfobject2.js?rand=12082009" type="text/javascript"></script>	
+	<script language="javascript" src="http://img1.nhaccuatui.com/Js/v6/util/surveypopup.js?rand=29062009" type="text/javascript"></script>
+	<script language="javascript" src="http://img1.nhaccuatui.com/Js/v6/util/tooltip.js?rand=12072009" type="text/javascript"></script>
+	<script language="javascript" src="http://img1.nhaccuatui.com/Js/v6/exec/NCTBase.js?rand=05092009" type="text/javascript"></script>	    
+	<script language="javascript" src="http://img1.nhaccuatui.com/Js/v6/exec/qc.js?rand=28072009.01" type="text/javascript"></script>	    
+	
+    <script language="javascript" src="http://img1.nhaccuatui.com/Js/v6/util/paging.js?rand=17072009" type="text/javascript"></script>
+    <script language="javascript" src="http://img1.nhaccuatui.com/Js/v6/exec/lyric.js?rand=17072009" type="text/javascript"></script>
+    <script language="javascript" src="http://img1.nhaccuatui.com/Js/v6/exec/comment.js?rand=18072009" type="text/javascript"></script>
+
+    <script type="text/javascript">if (self != top) top.location.replace(self.location)</script>
+	<script language="javascript" src="http://img1.nhaccuatui.com/Js/dhtml/custom_checkbox.js?rand=12082009" type="text/javascript"></script>					
+	<script language="javascript" src="http://img1.nhaccuatui.com/Js/dhtml/dhtmlXCommon.js?rand=12082009" type="text/javascript"></script>
+	<script language="javascript" src="http://img1.nhaccuatui.com/Js/dhtml/dhtmlXCombo.js?rand=12082009" type="text/javascript"></script>
+	
+	<script type="text/javascript">
+	    window.dhx_globalImgPath="http://img1.nhaccuatui.com/Images/";
+    </script>
+    <link rel="alternate" type="application/rss+xml" title="NhacCuaTui.Com - New Feed" href="/rss?type=topnew" /><link rel="shortcut icon" href="http://img1.nhaccuatui.com/Images/favicon.ico" /><link rel="image_src" href="http://img1.nhaccuatui.com/Images/v6/facebook-icon.jpg" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="Music.aspx?music=single&amp;key=J6NiVA3gbo" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTk3MDU3OTMxZGQB8V/FEjg8KRwcDQ6Jlns3oh/Klg==" />
+
+
+<script type="text/javascript" src="/ajaxpro/prototype.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/core.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/converter.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/NhacCuaTui.FrontEnd.AjaxProfileHelper,App_Code.ashx"></script>
+
+    <div id="main-body"> 
+        <div id="LockSreen"></div>
+        <div id="head-page">
+            
+<!-- begin: header --> 
+<div id="header">
+    <div title="Trang chủ NhacCuaTui.com" class="goto-home" onclick="window.location.href='/trang_chu'"></div>
+</div>
+<!-- end: header -->
+        </div>
+        <div id="main-page">            
+                        
+            <div id="container">
+                
+    <div id="main-col">
+        <!-- begin: main-content -->
+        <div id="main-content">
+            
+
+<!-- begin: player -->
+<div id="player-box" style="display: ">
+    <div class="title-box">
+        <h1>If That's Ok With You (Clip)</h1>
+    </div>
+    <ul class="list-media">
+        <li>
+            <span>Trình bày: </span>
+            <a title="Tìm các bài hát do Shayne Ward hát" target="_blank" href="/tim_kiem?by=casi&key=Shayne+Ward"><span>Shayne Ward</span></a>
+        </li>
+        <li>
+            <span>Đăng bởi: </span>
+            <a href="/Playlist/kalen1803" title="Nghe list bài hát của bạn kalen1803"><span>kalen1803</span></a><span> | 32kb/s | </span><span>Lượt nghe: 145,271 | </span>
+            <a title="Tìm các bài hát có thể loại : Nhạc Anh" target="_blank" href="/tim_kiem?type=anh"><span>Nhạc Anh</span></a>
+        </li>
+        <li style="display: block;">
+            <a href="http://info.nhaccuatui.com/PU/" target="_blank" title="Power User nghe nhạc nhanh và được hỗ trợ tốt hơn"><strong>Soạn: NCT [tên đăng nhập] gởi 8736 để nâng cấp thành Power User</strong></a>
+        </li>
+    </ul>
+    <div class="flash-play">
+        <div class="left-play">
+            <div class="swf">
+                <div id="flashPlayerHolder" class="flashPlayerHolder"><script type="text/javascript" defer="defer"> window.addEvent('domready', function(e){      var flashvars = {autostart: true};     var params = {wmode: "transparent", quality: "high", allowScriptAccess: "always"};     var attributes = {id: "FlashNCTPlayer", name: "FlashNCTPlayer"};     swfobject.embedSWF("http://www.nhaccuatui.com/m2/J6NiVA3gbo", "flashPlayerHolder", "300", "270", "9.0.0","http://img1.nhaccuatui.com/Images/v6/expressInstall.swf", flashvars, params, attributes); });</script></div>
+            </div>
+            <ul class="button-play">
+                <li id="MenuItem01"><a href="javascript:AddList('J6NiVA3gbo')" title='Thêm bài hát "If That's Ok With You (Clip)" vào list NhacCuaTui'><span style="width: 82px;"></span></a></li>
+                <li id="MenuItem02"><a href="javascript:Download('3848D946D1C02987C602BFD0FFBD01E3')" title ='Tải bài hát "If That's Ok With You (Clip)" về máy'><span style="width: 54px;"></span></a></li>
+                <li id="MenuItem03"><a href="/NhacCuaTui" title='Nghe List NhacCuaTui'><span style="width: 85px;"></span></a></li>
+                <li id="MenuItem04"><a href="/dang_nhac" title='Đăng/Upload bài hát'><span style="width: 69px;"></span></a></li>
+            </ul>
+        </div>
+        <div class="right-adv">
+            
+        <div class="nct-adv">
+    
+        <div class="item"><div class="item-qc" id="qc-128" style="width: 120px; height: 300px;"></div><script type="text/javascript">    NCTQC2('128', '120', '300', 'http://img1.nhaccuatui.com/ImgQC/Music_Vertical.htm');</script></div>   
+    
+        </div>
+    
+        </div>
+        <div class="info-play">
+            <div class="content" id="lbMessage">
+                Bạn có thể  thêm vào list NhacCuaTui, tải bài "<b>If That's Ok With You (Clip)</b>"về máy, nghe NhacCuaTui, đăng (upload) chủ đề mới... bằng cách nhấn các hình dưới player nhạc. Ngoài ra bạn có thể chèn bài hát "<b>If That's Ok With You (Clip)</b>" vào blog, website cá nhân, diễn đàn... hoặc chia sẻ với bạn bè với đường link dưới...
+            </div>
+        </div>
+        <ul class="share-link-info nct-share-link-player">
+            <li>
+                <span>Link nhạc:</span> <input type="text" id="embed_code2" name="embed_code2" value='http://www.nhaccuatui.com/nghe?M=J6NiVA3gbo' style="width: 393px;"  readonly="readonly" onclick="javascript:document.getElementById('embed_code2').focus();document.getElementById('embed_code2').select();" />
+            </li>
+            <li>
+                <span>Copy vào blog:</span> <input type="text" id="embed_code" name="embed_code" value='<object width="300" height="270"><param name="movie" value="http://www.nhaccuatui.com/m/J6NiVA3gbo" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><embed src="http://www.nhaccuatui.com/m/J6NiVA3gbo" quality="high" wmode="transparent" type="application/x-shockwave-flash" width="300" height="270"></embed></object>' style="width: 364px;"  readonly="readonly" onclick="javascript:document.getElementById('embed_code').focus();document.getElementById('embed_code').select();" />
+            </li>
+            <li>
+                <span>Copy vào diễn đàn:</span> <input type="text" id="embed_code3" name="embed_code3" value='[FLASH]http://www.nhaccuatui.com/m/J6NiVA3gbo[/FLASH]' style="width: 339px;" readonly="readonly" onclick="javascript:document.getElementById('embed_code3').focus();document.getElementById('embed_code3').select();" />
+            </li>
+        </ul>
+        <div class="play-options">
+           <div class="options">
+               <input name="groupTypeMusic" id="RadioM01" type="radio" value="1" checked="checked" onclick="ChangeTypePlay(this,'m','J6NiVA3gbo')" /> <label for="RadioM01">Bình thường</label>
+               <input name="groupTypeMusic" id="RadioM02" type="radio" value="2" onclick="ChangeTypePlay(this,'m','J6NiVA3gbo')"/> <label for="RadioM02">Tự động play</label>
+               <input name="groupTypeMusic" id="RadioM03" type="radio" value="3" onclick="ChangeTypePlay(this,'m','J6NiVA3gbo')"/> <label for="RadioM03">Nhạc nền</label>
+            </div>
+            <ul class="share-link">                
+                <li>
+                    <a target="_blank" href="http://www.facebook.com/sharer.php?u=http://www.nhaccuatui.com/nghe?M=J6NiVA3gbo" title="Chia sẻ qua Facebook">
+                        <img alt="Chia sẻ qua Facebook" src="http://img1.nhaccuatui.com/Images/v6/share/facebook.gif" />
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http://www.nhaccuatui.com/nghe?M=J6NiVA3gbo" title="Chia sẻ qua Google">
+                        <img alt="Chia sẻ qua Google" src="http://img1.nhaccuatui.com/Images/v6/share/google.jpg" />
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://twitter.com/home?status=2&url=http://www.nhaccuatui.com/nghe?M=J6NiVA3gbo" title="Chia sẻ qua Twitter">
+                        <img alt="Chia sẻ qua Twitter" src="http://img1.nhaccuatui.com/Images/v6/share/twitter.gif" />
+                    </a>
+                </li>
+                <li>
+                    <a target="_blank" href="http://bookmarks.yahoo.com/myresults/bookmarklet?u=http://www.nhaccuatui.com/nghe?M=J6NiVA3gbo" title="Chia sẻ qua Yahoo">
+                        <img alt="Chia sẻ qua Yahoo" src="http://img1.nhaccuatui.com/Images/v6/share/yahoo.gif" />
+                    </a>
+                </li>
+            </ul>        
+        </div>        
+    </div>
+</div>
+<div class="nct-help-info-box" style="display: none">
+    <fieldset>
+        <legend>Thông tin</legend>
+        <div class="content">Bạn có thể  thêm vào list NhacCuaTui, tải bài "<b>If That's Ok With You (Clip)</b>"về máy, nghe NhacCuaTui, đăng (upload) chủ đề mới... bằng cách nhấn các hình dưới player nhạc. Ngoài ra bạn có thể chèn bài hát "<b>If That's Ok With You (Clip)</b>" vào blog, website cá nhân, diễn đàn... hoặc chia sẻ với bạn bè với đường link dưới...</div>
+    </fieldset>
+</div>
+<!-- end: player -->
+            
+
+<div id="lyric-box">
+    <div class="title-box-3 active">
+        <h1>Lời bài hát</h1>
+    </div>
+    <div class="content" id="lyric-content">
+         <h2>If That's Ok With You (Clip)</h2><a class="archive" href="/loi-bai-hat/if-thats-ok-with-you-clip-shayne-ward.J6NiVA3gbo.html" title="Xem lời bài hát" target="_blank"><img alt="Xem lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" /></a><p class="thanks">Đăng bởi: <a href="/Playlist/sadmoonlight" title="Nghe list bài hát của bạn sadmoonlight">sadmoonlight</a></p><p class="lyric" id="lyric-content-resizable">I love the way that you look without your make up<br />I had a girl before we met but we broke up<br />Theres something 'bout you that makes me want to step up<br />step up and be with you<br />If That's Ok With You<br /><br />We'll keep the neighbors awake too late too late<br />cos imma make you feel so good thats how i see it happening<br />yeah we'll keep the neighbors awake too late too late<br />cos baby i wanna step up and be with you<br />if thats ok with you<br /><br />im gonna make you feel like you are heaven on earth<br />I'm gonna saint your mother just for giving you birth<br />im gonna wanna hold you in my arms when you cry<br />if thats ok with you<br />if thats ok with you<br /><br />I wanna keep your toothbrush at my appartment<br />Make a second set of keys and ask you to move in<br />I'm not crazy<br />I know what im getting myself in<br />I wanna live with you<br />If thats ok with you<br /><br />im gonna make you feel like you are heaven on earth<br />I'm gonna saint your mother just for giving you birth<br />im gonna wanna hold you in my arms when you cry<br />if thats ok with you<br />if thats ok with you<br /><br />If thats ok with you<br /><br />im gonna make you feel like you are heaven on earth<br />I'm gonna saint your mother just for giving you birth<br />im gonna wanna hold you in my arms when you cry<br />if thats ok with you<br />if thats ok with you<br />if thats ok with you<br />if thats ok with you<br />yeah yeah<br /><br />we'll keep the neighbors awake too late too late<br />I wanna love you this way that way this way<br />We'll keep the neighbors awake too late too late<br />I wanna love you this way that way this way<br /><br />im gonna make you feel like you are heaven on earth<br />I'm gonna saint your mother just for giving you birth<br />im gonna wanna hold you in my arms when you cry<br />if thats ok with you<br />if thats ok with you<br />Im gonna love you<br /><br />im gonna make you feel like you are heaven on earth<br />I'm gonna saint your mother just for giving you birth<br />im gonna wanna hold you in my arms when you cry<br />if thats ok with you<br />if thats ok with you<br />If thats ok with you<br />if thats ok with you<br />if thats ok with you<br />if thats ok with you<br />if thats ok with you</p><input type="hidden" id="idimages-url" value="http://img1.nhaccuatui.com" /><input type="hidden" id="idlyric-more" value="+" /><p class="button action">     <img id="idfull-lyric" onclick="fullLyric(event);" alt="Mở rộng" title="Mở rộng" src="http://img1.nhaccuatui.com/Images/v6/button/more-on.gif" /></p><div class="resizable" id="lyric-resizable"></div>         
+    </div>
+    <div class="content" id="lyric-content-add" style="display: none;">
+        <input type="hidden" id="idSongKey" value="J6NiVA3gbo" />                    
+        <p class="error"></p>
+        <p>
+            <textarea class="textarea" id="idLyric" name="idLyric" rows="5" cols="5"></textarea>
+        </p>
+        <p class="button">
+            <img onclick="lyricAction(false);" src="http://img1.nhaccuatui.com/Images/v6/button/add-lyric-off.jpg" alt="Đóng" title="Đóng" />            
+            <span id="button-lyric-action"><img onclick="addLyricSave();" src="http://img1.nhaccuatui.com/Images/v6/button/add-lyric.jpg" alt="Đăng lời nhạc" title="Đăng lời nhạc" /></span>
+        </p>
+    </div>
+</div>
+                        
+            
+
+<!-- begin: hot-list-media -->
+<div id="tab-navigation" class="tab-navigation">
+    <ul class="nct-navigation-tab">
+        <li class="active">
+            <a title="Bài hát liên quan" href="javascript:;"><span>Bài hát liên quan</span></a>
+        </li>
+        <li>
+            <a title="Cùng ca sĩ" href="javascript:;"><span>Cùng ca sĩ</span></a>
+        </li>
+        <li>
+            <a title="Cùng người đăng" href="javascript:;"><span>Cùng người đăng</span></a>
+        </li>
+    </ul>
+    <div class="list-content" id="hot-tab-1">
+        
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If That's Ok With You (Clip)" href="/nghe?M=J6NiVA3gbo">
+                    <img src="http://img1.nhaccuatui.com/Icon/FLV.gif" alt="Loại file FLV"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=J6NiVA3gbo" title="If That's Ok With You (Clip)" class="title">If That's Ok With You (Clip)</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/kalen1803" title="Nghe list bài hát của bạn kalen1803">kalen1803</a></span>
+                    <span> | 32kb/s | <label>Lượt nghe</label>: 145,271 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If that's ok with you" href="/nghe?M=9VqchN2r32">
+                    <img src="http://img1.nhaccuatui.com/Icon/FLV.gif" alt="Loại file FLV"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=9VqchN2r32" title="If that's ok with you" class="title">If that's ok with you</a></h2>
+                
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/janep91" title="Nghe list bài hát của bạn janep91">janep91</a></span>
+                    <span> | 32kb/s | <label>Lượt nghe</label>: 29,822 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If that's ok with you " href="/nghe?M=3m815bGYBB">
+                    <img src="http://img1.nhaccuatui.com/Icon/FLV.gif" alt="Loại file FLV"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=3m815bGYBB" title="If that's ok with you " class="title">If that's ok with you </a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/copeway9x" title="Nghe list bài hát của bạn copeway9x">copeway9x</a></span>
+                    <span> | 32kb/s | <label>Lượt nghe</label>: 150,091 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If that's ok with you" href="/nghe?M=Ek7JIn82cb">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=Ek7JIn82cb" title="If that's ok with you" class="title">If that's ok with you</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/ngohongtu" title="Nghe list bài hát của bạn ngohongtu">ngohongtu</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 12,164 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If that ok with you" href="/nghe?M=uwsm6xiLuF">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=uwsm6xiLuF" title="If that ok with you" class="title">If that ok with you</a></h2>
+                
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/nhimvip143" title="Nghe list bài hát của bạn nhimvip143">nhimvip143</a></span>
+                    <span> | 64kb/s | <label>Lượt nghe</label>: 2,590 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If That's OK With You" href="/nghe?M=KBXwKmz9Z_">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=KBXwKmz9Z_" title="If That's OK With You" class="title">If That's OK With You</a></h2>
+                
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/toptimbot" title="Nghe list bài hát của bạn toptimbot">toptimbot</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 2,915 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If That's OK With You" href="/nghe?M=_xvkILk2fa">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=_xvkILk2fa" title="If That's OK With You" class="title">If That's OK With You</a></h2>
+                
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/beautiful_lie2701" title="Nghe list bài hát của bạn beautiful_lie2701">beautiful_lie2701</a></span>
+                    <span> | 64kb/s | <label>Lượt nghe</label>: 3,469 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If that's ok with you" href="/nghe?M=f1iZP7goVt">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=f1iZP7goVt" title="If that's ok with you" class="title">If that's ok with you</a></h2>
+                
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/fenikya1986" title="Nghe list bài hát của bạn fenikya1986">fenikya1986</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 1,795 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If That's Ok With You" href="/nghe?M=GjbR-qSNP2">
+                    <img src="http://img1.nhaccuatui.com/Icon/FLV.gif" alt="Loại file FLV"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=GjbR-qSNP2" title="If That's Ok With You" class="title">If That's Ok With You</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/chieu_pt" title="Nghe list bài hát của bạn chieu_pt">chieu_pt</a></span>
+                    <span> | 32kb/s | <label>Lượt nghe</label>: 6,844 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If that's ok with you" href="/nghe?M=hjlqYNeic0">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=hjlqYNeic0" title="If that's ok with you" class="title">If that's ok with you</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=%c4%90ang+c%e1%ba%adp+nh%e1%ba%adt" title="Tìm các bài hát do Đang cập nhật hát">Đang cập nhật</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/alex_itsmyname" title="Nghe list bài hát của bạn alex_itsmyname">alex_itsmyname</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 4,343 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If That's OK With You" href="/nghe?M=p7cYhNPC4b">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=p7cYhNPC4b" title="If That's OK With You" class="title">If That's OK With You</a></h2>
+                
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Andy'B" title="Tìm các bài hát do Andy'B hát">Andy'B</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/buiphutoan" title="Nghe list bài hát của bạn buiphutoan">buiphutoan</a></span>
+                    <span> | 64kb/s | <label>Lượt nghe</label>: 450 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If that's OK with you" href="/nghe?M=-SStRUzbz_">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=-SStRUzbz_" title="If that's OK with you" class="title">If that's OK with you</a></h2>
+                
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/porcupine11" title="Nghe list bài hát của bạn porcupine11">porcupine11</a></span>
+                    <span> | 64kb/s | <label>Lượt nghe</label>: 791 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If That's OK With You" href="/nghe?M=HKJ9xCsniB">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=HKJ9xCsniB" title="If That's OK With You" class="title">If That's OK With You</a></h2>
+                
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/ngohongtu" title="Nghe list bài hát của bạn ngohongtu">ngohongtu</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 2,471 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If That's OK With You" href="/nghe?M=yM6U76OvQI">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=yM6U76OvQI" title="If That's OK With You" class="title">If That's OK With You</a></h2>
+                
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayer+Wrad" title="Tìm các bài hát do Shayer Wrad hát">Shayer Wrad</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/f.chopin" title="Nghe list bài hát của bạn f.chopin">f.chopin</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 885 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If That's Ok With You" href="/nghe?M=Ux1nTOVN5M">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=Ux1nTOVN5M" title="If That's Ok With You" class="title">If That's Ok With You</a></h2>
+                
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/phuduc91" title="Nghe list bài hát của bạn phuduc91">phuduc91</a></span>
+                    <span> | 64kb/s | <label>Lượt nghe</label>: 2,823 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+ 
+        <p class="link"><a title="Xem thêm các bài hát liên quan đến bài hát If That's Ok With You (Clip)" target="_blank" href="/tim_nang_cao?key=If+That's+Ok+With+You+(Clip)">&raquo; Xem thêm</a></p>
+    </div>
+    <div class="list-content" id="hot-tab-2" style="display: none;">
+        
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If That's Ok With You (Clip)" href="/nghe?M=J6NiVA3gbo">
+                    <img src="http://img1.nhaccuatui.com/Icon/FLV.gif" alt="Loại file FLV"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=J6NiVA3gbo" title="If That's Ok With You (Clip)" class="title">If That's Ok With You (Clip)</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/kalen1803" title="Nghe list bài hát của bạn kalen1803">kalen1803</a></span>
+                    <span> | 32kb/s | <label>Lượt nghe</label>: 145,271 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="Until You" href="/nghe?M=wQZsHkDZgV">
+                    <img src="http://img1.nhaccuatui.com/Icon/FLV.gif" alt="Loại file FLV"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=wQZsHkDZgV" title="Until You" class="title">Until You</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/chieu_pt" title="Nghe list bài hát của bạn chieu_pt">chieu_pt</a></span>
+                    <span> | 32kb/s | <label>Lượt nghe</label>: 73,068 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If that's ok with you " href="/nghe?M=3m815bGYBB">
+                    <img src="http://img1.nhaccuatui.com/Icon/FLV.gif" alt="Loại file FLV"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=3m815bGYBB" title="If that's ok with you " class="title">If that's ok with you </a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/copeway9x" title="Nghe list bài hát của bạn copeway9x">copeway9x</a></span>
+                    <span> | 32kb/s | <label>Lượt nghe</label>: 150,091 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="No Promises" href="/nghe?M=gu-Sc7YK2S">
+                    <img src="http://img1.nhaccuatui.com/Icon/FLV.gif" alt="Loại file FLV"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=gu-Sc7YK2S" title="No Promises" class="title">No Promises</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/ky_si_den_2054" title="Nghe list bài hát của bạn ky_si_den_2054">ky_si_den_2054</a></span>
+                    <span> | 32kb/s | <label>Lượt nghe</label>: 78,129 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="No Promises" href="/nghe?M=oGcrBfTHKF">
+                    <img src="http://img1.nhaccuatui.com/Icon/FLV.gif" alt="Loại file FLV"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=oGcrBfTHKF" title="No Promises" class="title">No Promises</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/hadinhnhan" title="Nghe list bài hát của bạn hadinhnhan">hadinhnhan</a></span>
+                    <span> | 32kb/s | <label>Lượt nghe</label>: 55,543 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="No promises" href="/nghe?M=6WC8F32lBW">
+                    <img src="http://img1.nhaccuatui.com/Icon/FLV.gif" alt="Loại file FLV"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=6WC8F32lBW" title="No promises" class="title">No promises</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/napoleoniii" title="Nghe list bài hát của bạn napoleoniii">napoleoniii</a></span>
+                    <span> | 32kb/s | <label>Lượt nghe</label>: 61,280 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="Stand by me" href="/nghe?M=cjewNVa-0j">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=cjewNVa-0j" title="Stand by me" class="title">Stand by me</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/annetran402" title="Nghe list bài hát của bạn annetran402">annetran402</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 4,872 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="Breathless" href="/nghe?M=ne-_SDTMaA">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=ne-_SDTMaA" title="Breathless" class="title">Breathless</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/rickymatin_2290" title="Nghe list bài hát của bạn rickymatin_2290">rickymatin_2290</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 12,643 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If that's ok with you" href="/nghe?M=9VqchN2r32">
+                    <img src="http://img1.nhaccuatui.com/Icon/FLV.gif" alt="Loại file FLV"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=9VqchN2r32" title="If that's ok with you" class="title">If that's ok with you</a></h2>
+                
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/janep91" title="Nghe list bài hát của bạn janep91">janep91</a></span>
+                    <span> | 32kb/s | <label>Lượt nghe</label>: 29,822 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="Breathless" href="/nghe?M=hKk6THrt_H">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=hKk6THrt_H" title="Breathless" class="title">Breathless</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/silverlightxp" title="Nghe list bài hát của bạn silverlightxp">silverlightxp</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 6,065 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="No U Hang Up" href="/nghe?M=Ln71Bck6Ta">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=Ln71Bck6Ta" title="No U Hang Up" class="title">No U Hang Up</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/centaurus" title="Nghe list bài hát của bạn centaurus">centaurus</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 12,738 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="Until You" href="/nghe?M=Js_JiQebXu">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=Js_JiQebXu" title="Until You" class="title">Until You</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/centaurus" title="Nghe list bài hát của bạn centaurus">centaurus</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 16,075 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="Melt The Snow" href="/nghe?M=86EcHDzlAH">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=86EcHDzlAH" title="Melt The Snow" class="title">Melt The Snow</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/centaurus" title="Nghe list bài hát của bạn centaurus">centaurus</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 7,088 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="No Promise" href="/nghe?M=6HlfvAJGz0">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=6HlfvAJGz0" title="No Promise" class="title">No Promise</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/sock.love1" title="Nghe list bài hát của bạn sock.love1">sock.love1</a></span>
+                    <span> | 64kb/s | <label>Lượt nghe</label>: 5,320 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="No U Hang Up" href="/nghe?M=9xq5y3_5tC">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=9xq5y3_5tC" title="No U Hang Up" class="title">No U Hang Up</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/haitrieu2111" title="Nghe list bài hát của bạn haitrieu2111">haitrieu2111</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 6,407 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+ 
+        <p class="link"><a title="Xem thêm các bài hát do Shayne Ward trình bày" target="_blank" href="/tim_kiem?by=casi&key=Shayne+Ward">&raquo; Xem thêm</a></p>
+    </div>
+    <div class="list-content" id="hot-tab-3" style="display: none;">
+        
+        <div class="row">
+            <div class="filetype-col">
+                <a title="If That's Ok With You (Clip)" href="/nghe?M=J6NiVA3gbo">
+                    <img src="http://img1.nhaccuatui.com/Icon/FLV.gif" alt="Loại file FLV"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=J6NiVA3gbo" title="If That's Ok With You (Clip)" class="title">If That's Ok With You (Clip)</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/kalen1803" title="Nghe list bài hát của bạn kalen1803">kalen1803</a></span>
+                    <span> | 32kb/s | <label>Lượt nghe</label>: 145,271 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="No U Hand Up" href="/nghe?M=8xgHxyq9_I">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=8xgHxyq9_I" title="No U Hand Up" class="title">No U Hand Up</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Shayne+Ward" title="Tìm các bài hát do Shayne Ward hát">Shayne Ward</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/kalen1803" title="Nghe list bài hát của bạn kalen1803">kalen1803</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 1,987 | </span>
+                    <span><a href="/tim_kiem?type=anh" title="Tìm các bài hát có thể loại: Nhạc Anh">Nhạc Anh</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="Chờ em nơi đây  (Ost)" href="/nghe?M=YApWIFxCVh">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=YApWIFxCVh" title="Chờ em nơi đây  (Ost)" class="title">Chờ em nơi đây  (Ost)</a></h2>
+                
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=%c4%90ang+c%e1%ba%adp+nh%e1%ba%adt" title="Tìm các bài hát do Đang cập nhật hát">Đang cập nhật</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/kalen1803" title="Nghe list bài hát của bạn kalen1803">kalen1803</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 1,144 | </span>
+                    <span><a href="/tim_kiem?type=hoa" title="Tìm các bài hát có thể loại: Nhạc Hoa">Nhạc Hoa</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="Haru Haru" href="/nghe?M=u-sIQ4sd-G">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=u-sIQ4sd-G" title="Haru Haru" class="title">Haru Haru</a></h2>
+                <img class="archive" title="Lời bài hát" alt="Lời bài hát" src="http://img1.nhaccuatui.com/Images/v6/archive.gif" />
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=Big+Bang" title="Tìm các bài hát do Big Bang hát">Big Bang</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/kalen1803" title="Nghe list bài hát của bạn kalen1803">kalen1803</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 18,549 | </span>
+                    <span><a href="/tim_kiem?type=han" title="Tìm các bài hát có thể loại: Nhạc Hàn Quốc">Nhạc Hàn Quốc</a></span>
+                </p>
+            </div>
+        </div>        
+    
+        <div class="row">
+            <div class="filetype-col">
+                <a title="No Escape" href="/nghe?M=ePs1mZEx66">
+                    <img src="http://img1.nhaccuatui.com/Icon/MP3.gif" alt="Loại file MP3"/>
+                </a>
+            </div>
+            <div class="summary-col">
+                <h2><a href="/nghe?M=ePs1mZEx66" title="No Escape" class="title">No Escape</a></h2>
+                
+                <p><label>Trình bày</label>: <a href="/tim_kiem?by=casi&key=%c4%90ang+c%e1%ba%adp+nh%e1%ba%adt" title="Tìm các bài hát do Đang cập nhật hát">Đang cập nhật</a></p>
+                <p>
+                    <label>Đăng bởi</label>: 
+                    <span><a href="/Playlist/kalen1803" title="Nghe list bài hát của bạn kalen1803">kalen1803</a></span>
+                    <span> | 128kb/s | <label>Lượt nghe</label>: 166 | </span>
+                    <span><a href="/tim_kiem?type=hoa" title="Tìm các bài hát có thể loại: Nhạc Hoa">Nhạc Hoa</a></span>
+                </p>
+            </div>
+        </div>        
+    
+ 
+        <p class="link"><a title="Xem thêm các bài hát đăng bởi kalen1803" target="_blank" href="/tim_kiem?by=user&key=kalen1803">&raquo; Xem thêm</a></p>
+    </div>
+</div>
+<!-- end: hot-list-media -->            
+        </div>
+        <!-- end: main-content -->
+        <!-- begin: right-col -->
+        <div id="right-col">
+            
+<!-- begin: login -->
+<div id="login-box">
+    <div class="title-box">
+        <span>Đăng nhập</span>
+    </div>
+    <div id="divLogin" style="display:">        
+        <div class="form-left">
+            <label for="idusername">Tên đăng nhập</label>
+            <img onclick="tooltip.toggle();" style="margin-left: 5px; cursor: pointer;" src="http://img1.nhaccuatui.com/Images/v6/tooltip/icon-tooltip.png" alt="Tài khoản dùng chung" title="Tài khoản dùng chung" />
+            <input tabindex="1" type="text" id="idusername" name="idusername" maxlength="30" onkeydown="javascript:return keydownfnLogin(event);" onfocus="setMethod(-1);" onblur="setMethod(0);" />
+            <label for="idpassword">Mật khẩu</label>
+            <input tabindex="2" type="password" id="idpassword" name="idpassword" maxlength="30" onkeydown="javascript:return keydownfnLogin(event);" onfocus="setMethod(-1);" onblur="setMethod(0);" />            
+        </div>
+        <div class="form-right">
+            <img src="http://img1.nhaccuatui.com/Images/v6/login-button.jpg" alt="Đăng nhập" id="login-button" onclick="login()" />
+        </div>        
+        <div class="more-info">
+            <input type="checkbox" id="idcheckboxsave" name="idcheckboxsave" />
+            <label for="idcheckboxsave">Nhớ mật khẩu (1 tháng)</label>
+            <span> | </span>
+            <a href="/dang_ky" title="Đăng ký mới">Đăng ký mới</a>
+        </div>
+        <div id="public-acc-tips" class="public-acc-tips"></div>
+        <script type="text/javascript">
+		    var tooltip = new ToolTip({
+			    'id': 'public-acc-tips', 
+			    'width': '222px',
+			    'closeText': 'Đóng !',
+			    'content': 'Tên đăng nhập: nhaccuatui.com<br/>Mật khẩu: nhaccuatui.com'
+		    }); 
+	    </script>
+    </div>
+    <div id="divLogout" class="islogin" style="display:none">
+        <div class="fullname">
+            <input type="hidden" id="url-resouces" value="http://img1.nhaccuatui.com" />
+            <input type="hidden" id="powerUserUrlInfo" value="http://info.nhaccuatui.com/PU/" />
+            <div id="powerUserNote" style="display: none;">Nâng cấp thành Power User</div>
+            Xin chào: <label id="islogin-idfullname"></label><span id="islogin-icon-vip"></span>
+        </div>
+        <ul>
+            <li id="islogin-account-manager" style="display:"><a title="Quản lý tài khoản" href="/quan_ly_tai_khoan">Quản lý tài khoản</a></li>
+            <li><a title="Nghe NhacCuaTui" href="/NhacCuaTui">Nghe NhacCuaTui</a></li>
+            <li id="islogin-expire-vip" style="display:">
+                <a target="_blank" title="Xem thông tin power user" href="http://info.nhaccuatui.com/PU/">Nâng cấp thành Power User</a>             
+            </li>
+            
+            <li><a title="Thoát" href="javascript:logout()">Thoát</a></li>
+        </ul>
+    </div>
+</div>
+<!-- begin: login -->
+            
+        <div class="nct-adv">
+    
+        <div class="item"><div class="item-qc" id="qc-131" style="width: 300px; height: 250px;"></div><script type="text/javascript">    NCTQC2('131', '300', '250', 'http://img1.nhaccuatui.com/ImgQC/MediumRectangle_Music.htm');</script></div>   
+    
+        </div>
+    
+            
+<!-- begin: quick-search -->
+<div id="quick-search-box">
+    <div class="title-box">
+        <span>Tìm kiếm</span>
+    </div>
+    <div class="form-box">
+        <label for="IdSearchForm">Từ khóa</label>
+        <input type="text" class="input" id="IdSearchForm" name="IdSearchForm" onkeypress="return keydownfn_SearchForm(event)" />
+        <label for="SelectOptionSearch">Theo</label>
+        <div class="search-in">
+            <select id="SelectOptionSearch">
+                <option value="0">Tên bài hát/ chủ đề</option>
+                <option value="1">Tên ca sĩ/ trình diễn</option>
+                <option value="2">Người đăng</option>
+            </select>
+            <img class="login-button" title="Tìm" src="http://img1.nhaccuatui.com/Images/v6/search-button.jpg" alt="Tìm kiếm bài hát" onclick="MySearch()" />
+            <script language="javascript" type="text/javascript">
+                var zSelectOptionSearch=dhtmlXComboFromSelect("SelectOptionSearch", 207);
+                zSelectOptionSearch.readonly(true);                  
+            </script>
+        </div>
+    </div>
+</div>
+<!-- end: quick-search -->
+            
+        <div class="nct-adv">
+    
+        <div class="item"><a href='http://www.xtee.vn/?xf=tintuc&c=18&i=21' target='_blank' onclick='ADVLogger(59)'><img src='http://img1.nhaccuatui.com/ImgQC/xTee_300x100_20090828.gif' width='300' height='100' title='xTee - Tự tin thể hiện' alt='xTee - Tự tin thể hiện' /></a></div>   
+    
+        <div class="item"><div class="item-qc" id="qc-146" style="width: 300px; height: 250px;"></div><script type="text/javascript">    NCTQC2('146', '300', '250', 'http://img1.nhaccuatui.com/ImgQC/Music_Right3.htm');</script></div>   
+    
+        <div class="item"><a href='http://www.five.vn' target='_blank' onclick='ADVLogger(160)'><img src='http://img1.nhaccuatui.com/ImgQC/FiveVN_300x100_20090829.jpg' width='300' height='100' title='5ive.com' alt='5ive.com' /></a></div>   
+    
+        <div class="item"><div class="item-qc" id="qc-147" style="width: 300px; height: 250px;"></div><script type="text/javascript">    NCTQC2('147', '300', '250', 'http://img2.nhaccuatui.com/ImgQC/Music_Right4.htm');</script></div>   
+    
+        </div>
+    
+        </div>
+        <!-- end: right-col -->
+    </div>
+    <!-- begin: left-col -->
+    <div id="left-col">
+        
+<!-- begin: menu -->
+<div id="menu-box" class="menu">
+    <div class="title-box-1">
+        <span>Menu</span>
+    </div>
+    <ul class="pointer">
+        <li>
+            <a title="Trang chủ" href="/trang_chu">Trang chủ</a>
+        </li>
+        <li>
+            <a title="Đăng/upload Bài Hát" href="/dang_nhac">Đăng/upload Bài Hát</a>
+        </li>
+        <li class="last">
+            <a title="Đăng ký tài khoản mới" href="/dang_ky">Đăng ký tài khoản mới</a>
+        </li>
+    </ul>
+</div>
+<!-- end: menu -->
+
+<!-- begin: wish -->
+<div id="wish-box" class="button-box">
+    <ul>
+        <li>
+            <a title="Nghe NhacCuaTui" href="/NhacCuaTui">
+                <img alt="Nghe NhacCuaTui" src="http://img1.nhaccuatui.com/Images/v6/listening-nct.gif" />
+            </a>
+        </li>
+        <li class="last">
+            <a title="Đặt làm trang chủ" href="/trang_chu" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.NhacCuaTui.com/');">
+                <img alt="Đặt NhacCuaTui.com làm trang chủ" src="http://img1.nhaccuatui.com/Images/v6/set-homepage-nct.gif" />
+            </a>
+        </li>
+    </ul>
+</div>
+<!-- end: wish -->
+
+<!-- begin: category -->
+<div id="category-box" class="menu">
+    <div class="title-box-1">
+        <span>Âm nhạc</span>
+    </div>
+    
+        <ul>
+            <li><a  title="Tất cả các thể loại" href="/tim_kiem">Tất cả các thể loại</a></li>
+        
+            <li><a title="Nhạc Trẻ" href="/tim_kiem?type=nhactre">Nhạc Trẻ</a></li>
+        
+            <li><a title="Nhạc trữ tình" href="/tim_kiem?type=trutinh">Nhạc trữ tình</a></li>
+        
+            <li><a title="Nhạc cách mạng" href="/tim_kiem?type=cachmang">Nhạc cách mạng</a></li>
+        
+            <li><a title="Nhạc hòa tấu" href="/tim_kiem?type=hoatau">Nhạc hòa tấu</a></li>
+        
+            <li><a title="Nhạc Trịnh" href="/tim_kiem?type=trinh">Nhạc Trịnh</a></li>
+        
+            <li><a title="Nhạc tiền chiến" href="/tim_kiem?type=tienchien">Nhạc tiền chiến</a></li>
+        
+            <li><a title="Nhạc thiếu nhi" href="/tim_kiem?type=thieunhi">Nhạc thiếu nhi</a></li>
+        
+            <li><a title="Rock, Hip Hop Việt" href="/tim_kiem?type=hiphop">Rock, Hip Hop Việt</a></li>
+        
+            <li><a title="Nhạc Tui hát" href="/tim_kiem?type=che">Nhạc Tui hát</a></li>
+        
+            <li><a title="Nhạc Anh" href="/tim_kiem?type=anh">Nhạc Anh</a></li>
+        
+            <li><a title="Nhạc Hoa" href="/tim_kiem?type=hoa">Nhạc Hoa</a></li>
+        
+            <li><a title="Nhạc Hàn Quốc" href="/tim_kiem?type=han">Nhạc Hàn Quốc</a></li>
+        
+            <li><a title="Nhạc Nhật" href="/tim_kiem?type=nhat">Nhạc Nhật</a></li>
+        
+            <li><a title="Thể loại khác" href="/tim_kiem?type=khac">Thể loại khác</a></li>
+        
+        </ul>
+                                   
+</div>
+<!-- end: category -->
+
+<!-- begin: relax -->
+<div id="relax-box" class="menu">
+    <div class="title-box-1">
+        <span>Giải trí</span>
+    </div>
+    
+            <ul>
+        
+                <li><a  title="Clip giải trí, hài kịch" href="/tim_kiem?type=clip">Clip giải trí, hài kịch</a></li>                
+            
+                <li><a  title="Phim Mỹ, HK" href="/tim_kiem?type=phim">Phim Mỹ, HK</a></li>                
+                        
+            </ul> 
+        
+</div>
+<!-- end: relax -->
+
+<!-- begin: wish -->
+<div id="services-nct" class="button-box">
+    <ul>
+        <li>
+            <a target="_blank" title="Dịch vụ nhạc chuông" href="http://dichvu.nhaccuatui.com/nhac-chuong">
+                <img alt="Dịch vụ nhạc chuông" src="http://img1.nhaccuatui.com/Images/v6/button/button-nhacchuong.gif" />
+            </a>
+        </li>
+        <li class="last">
+            <a target="_blank" title="Blog NhacCuaTui" href="http://blog.nhaccuatui.com">
+                <img alt="Blog NhacCuaTui" src="http://img1.nhaccuatui.com/Images/v6/button/button-blog.gif" />
+            </a>
+        </li>        
+    </ul>
+</div>
+<!-- end: wish -->
+        
+
+<div id="menu-hot-keyword" class="menu-keyword">
+    <div class="title-box-2">
+        <span>Từ khóa HOT nhất</span>
+    </div>
+    <ul>
+        <li><a href="/tim_kiem?key=Haru+Haru">Haru Haru</a></li><li><a href="/tim_kiem?key=Nh%e1%ba%a1c+chu%c3%b4ng">Nhạc chuông</a></li><li><a href="/tim_kiem?by=casi&key=Kh%c3%a1nh+Ph%c6%b0%c6%a1ng">Khánh Phương</a></li><li><a href="/tim_kiem?key=%c4%90%c6%a1n+c%c3%b4i">Đơn côi</a></li><li><a href="/tim_kiem?by=casi&key=%c4%90%c3%b4ng+Nhi">Đông Nhi</a></li><li><a href="/tim_kiem?key=Nobody%0d%0a">Nobody
+</a></li><li><a href="/tim_kiem?key=Gi%e1%ba%a3+v%e1%bb%9d+y%c3%aau">Giả vờ yêu</a></li><li><a href="/tim_kiem?key=Nh%e1%ba%a1c+v%c5%a9+tr%c6%b0%e1%bb%9dng">Nhạc vũ trường</a></li><li><a href="/tim_kiem?by=casi&key=T%e1%bb%91ng+Gia+V%e1%bb%b9">Tống Gia Vỹ</a></li><li><a href="/tim_kiem?by=casi&key=B%e1%ba%a3o+Thy">Bảo Thy</a></li><li><a href="/tim_kiem?key=Chi%e1%ba%bfc+kh%c4%83n+gi%c3%b3+%e1%ba%a5m">Chiếc khăn gió ấm</a></li><li><a href="/tim_kiem?key=Pha+L%c3%aa+T%c3%adm">Pha Lê Tím</a></li><li><a href="/tim_kiem?by=casi&key=Cao+Th%c3%a1i+S%c6%a1n">Cao Thái Sơn</a></li><li><a href="/tim_kiem?by=casi&key=HKT">HKT</a></li><li><a href="/tim_kiem?by=casi&key=%c4%90%c3%a0m+V%c4%a9nh+H%c6%b0ng">Đàm Vĩnh Hưng</a></li><li><a href="/tim_kiem?key=%c4%90%c3%b4i+m%e1%ba%aft">Đôi mắt</a></li><li><a href="/tim_kiem?key=Because+i'm+stupid">Because i'm stupid</a></li><li><a href="/tim_kiem?by=casi&key=Nh%e1%ba%adt+Thy">Nhật Thy</a></li><li><a href="/tim_kiem?by=casi&key=Akira+Phan">Akira Phan</a></li>
+    </ul>
+</div>
+
+<div id="menu-list-keyword" class="menu-keyword">
+    <div class="title-box-2">
+        <span>Playlist HOT</span>
+    </div>
+    <ul>
+        <li><a href="nghe?L=Mq3QeXCgWZBR">Colin_HaVi</a></li><li><a href="nghe?L=wLXQN889Pl5r">nminhkha</a></li><li><a href="nghe?L=C8SlIYzZQrYm">temely</a></li><li><a href="nghe?L=pk09t2qTMXlJ">Phungvl</a></li><li><a href="nghe?L=piSsd4zhX0q9">TrangCoCo</a></li><li><a href="nghe?L=COBjF7vA6574">chuanowen</a></li><li><a href="nghe?L=CR2Aabx3DNXk">Sami</a></li><li><a href="nghe?L=SuEw8FZaiVvm">NCT...canh</a></li><li><a href="nghe?L=jF7NhfAd72IW">rongchoi</a></li><li><a href="nghe?L=qUCViSm36ecj">sad_nhung</a></li><li><a href="nghe?L=9B7ABZi9rgBL">hyt1603</a></li><li><a href="nghe?L=EJXFv4d4NGBz">liemle</a></li><li><a href="nghe?L=7h4h93KTQF6K">vanhyeuem</a></li><li><a href="nghe?L=2U1nuweeNAup">tinhyeu</a></li><li><a href="nghe?L=Kr8PGSDpBR6Q">gavotinh</a></li><li><a href="nghe?L=SWWE2LzGc-DQ">motherisall
+</a></li><li><a href="nghe?L=9F19AAxYm5Bl">binhkylove
+</a></li><li><a href="nghe?L=qELbvRowWoIW">darkphoenixx
+</a></li><li><a href="nghe?L=S26Jigl5flEe">boyquanchay
+</a></li><li><a href="nghe?L=dRL4OCpPday0">huanlt
+</a></li>
+    </ul>
+</div>
+    </div>
+    <!-- end: left-col -->
+                
+            </div>            
+        </div>
+        <div id="foot-page">
+            
+
+<div id="home-bottom-adv">
+    
+        <div class="nct-adv">
+    
+        <div class="item"><a href='http://blog.nhaccuatui.com/' target='_blank' onclick='ADVLogger(78)'><img src='http://img1.nhaccuatui.com/ImgQC/banner_footer_20090225.jpg' width='990' height='126' title='NhacCuaTui.com' alt='NhacCuaTui.com' /></a></div>   
+    
+        </div>
+    
+</div>
+<!-- begin: footer -->
+<div id="footer">
+    <div class="left">
+        <span>
+            Giấy phép ICP số : 06/GP-TTĐT | 2005 - 2009 © <a id="idaboutus" href="http://aboutus.nct.vn/" target="_blank">NCT Corporation</a>
+        </span>
+    </div>
+    <div class="right">
+        <a href="javascript:bookmarksite('NhacCuaTui.com - Nghe nhạc mọi lúc mọi nơi', 'http://www.NhacCuaTui.com')">Ghi nhớ (bookmark)</a> | 
+        <a href="/thoa_thuan_su_dung">Thỏa thuận sử dụng</a> | 
+        <a target="_blank" href="http://advertise.nct.vn">Liên hệ quảng cáo</a> | 
+        <script language="javascript" type="text/javascript"> var contact = '<a href="mailto:supportnct@nhaccuatuinct.com" class="link01">Trợ giúp</a>'; document.write(contact.replace(/nct/g,''));</script>
+    </div>
+    <div class="cooperative">
+        NCT khuyến khích sử dụng <strong>MegaVNN</strong> để nghe nhạc nhanh hơn
+    </div>
+</div>
+<!-- end: footer -->
+        </div>
+        <div id="bottom-bar"></div>
+    </div>
+    </form>
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script> 
+    <script type="text/javascript">
+        var pageTracker = _gat._getTracker("UA-273986-1");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+    </script>
+    <script language="javascript" type="text/javascript">initcheckboxcus();</script>
+    <script language="javascript" src="http://img1.nhaccuatui.com/Js/v6/exec/addon.js?rand=29062009" type="text/javascript"></script>
+    
+    
+
+</body>
+</html>
+

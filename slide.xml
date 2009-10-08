@@ -1,0 +1,14 @@
+<slideshow>
+<title a='1'>Demo slideshow</title>
+<slide><title a='2'>Slide title</title>
+<point>This is a demo</point>
+<point>Of a program for processing slides</point>
+</slide>
+
+<slide><title a='3'>Another demo slide</title>
+<point>It is important</point>
+<point>To have more than</point>
+<point>one slide</point>
+</slide>
+</slideshow>
+
