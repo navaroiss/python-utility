@@ -57,7 +57,9 @@ def fetch_request(url, data={}, headers={}):
 print "Starting my mission... "
 data = fetch_request(options.link)
 
-rs = re.findall('swfobject\.embedSWF\("(.*)", "flashPlayerListHolder"', data) or re.findall('swfobject\.embedSWF\("(.*)", "flashPlayerHolder"', data)
+#rs = re.findall('swfobject\.embedSWF\("(.*)", "flashPlayerListHolder"', data) or re.findall('swfobject\.embedSWF\("(.*)", "flashPlayerHolder"', data)
+rs = re.findall('<param value="http://img1.nhaccuatui.com/Flash/NCTplayer31_L.swf\?file=(.*)" name="movie"/>', data)
+#print re.findall('<param value="http://img1.nhaccuatui.com/Flash/NCTplayer31_L.swf\?file=(.*)" name="movie"/>', data)
 
 if len(rs)>=1:
     xmldata = fetch_request(rs[0])

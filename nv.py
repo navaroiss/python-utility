@@ -2,6 +2,8 @@
 import os, urllib, urllib2, sgmllib, re
 from optparse import OptionParser
 
+from os.
+
 parser = OptionParser()
 parser.add_option("-d", "--directory", dest="directory", help="Directory")
 
